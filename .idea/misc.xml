@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/mpmcc/Documents/Android Studo Projects/ANewHue 1.0/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/mpmcc/Documents/Android Studo Projects/ANewHue 1.0/app/src/main/res/drawable/ic_splashscreen.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/mpmcc/Documents/Android Studo Projects/ANewHue 1.0/app/src/main/res/layout/activity_home.xml" value="0.259375" />
+        <entry key="..\:/Users/mpmcc/Documents/Android Studo Projects/ANewHue 1.0/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
